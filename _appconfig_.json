@@ -9,7 +9,7 @@
 ],
 "-default-grav-simulation-enum":"10.000",
 "-default-grav-simulation-planet":"_earth_",
-"-default-startup-app":"app_init.cs",
-"-default-emulator":"app_emulate.cs",
+"-default-startup-app":"app_init.exe",
+"-default-emulator":"app_emulate.exe",
 "-default-base-file":"[null]"
 }
