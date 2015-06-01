@@ -6,7 +6,7 @@
 "-default-csharp-req":"using System",
 "-default-editors":[
 "GIT HUB", "Visual C# 2010", "Visual Studio Code 2015 Preview", "Sublime Text 3"
-]
+],
 "-default-grav-simulation-enum":"10.000",
 "-default-grav-simulation-planet":"_earth_",
 "-default-startup-app":"app_init.cs",
